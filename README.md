@@ -2,7 +2,7 @@
 
 🔭 Atualmente estou aprendendo Front-End na plataforma Alura
 
-🌱 Estou aprendendo HTML, CSS3, JS e REACT.
+🌱 Estou aprendendo HTML, CSS3, JS.
 
 📫Como entrar em contato comigo: analice.web@hotmail.com
 
@@ -15,7 +15,6 @@
   <img align="center" alt="AnaliceX-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AnaliceX-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AnaliceX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AnaliceX-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
   </div>
   
